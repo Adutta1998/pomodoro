@@ -1,5 +1,5 @@
-let timerMinutes = 0;
-let timerSeconds = 10;
+let timerMinutes = 25;
+let timerSeconds = 0;
 let timerInstance = null;
 let resetbtn = document.querySelector('.reset');
 window.addEventListener('DOMContentLoaded', (event) => {
